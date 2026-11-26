@@ -1,3 +1,3 @@
 # Project2003LostArchiveStuff
 
-archives of netlify websites
+archive of netlify websites
